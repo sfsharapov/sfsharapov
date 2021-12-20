@@ -1,4 +1,4 @@
-### Hi there 👋
+### Privet 👋
 
 <!--
 **sfsharapov/sfsharapov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Sardor and I am backend developer
+
+![](https://komarev.com/ghpvc/?username=sfsharapov&color=blue)
